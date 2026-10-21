@@ -99,7 +99,7 @@ $$X_{i,j} \ge 0 \quad \forall i \in I, \forall j \in J$$
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/supply-chain-network-optimization.git
+   git clone https://github.com/SujalKumarGupta07/Supply-Chain-Distribution-Network-Optimization.git
    cd supply-chain-network-optimization
    ```
 
