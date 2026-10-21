@@ -1,0 +1,6 @@
+pyomo>=6.10.1
+cbcbox>=2.935
+notebook
+jupyterlab
+pandas
+numpy
